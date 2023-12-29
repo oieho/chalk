@@ -49,6 +49,10 @@
 		"command-line",
 		"text"
 	],
+	"dependencies": {
+		"ansi-styles": "^6.1.0",
+		"supports-color": "^9.2.1"
+	},
 	"devDependencies": {
 		"@types/node": "^16.11.10",
 		"ava": "^3.15.0",
